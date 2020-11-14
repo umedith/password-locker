@@ -26,5 +26,5 @@ Terminal
 7. and follow instructions.
 
 # COPYRIGHT (c) 2020 
-MUTONI Vivine :mutoniv5@gmail.com
+UMUTONIWASE Edith :mutoniv5@gmail.com
 Twitter:@umutonivivine
