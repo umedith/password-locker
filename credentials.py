@@ -13,6 +13,7 @@ class Account:
     def save_account(self):
         Account.account_list.append(self)
 
+
     @classmethod
     def display_accounts(cls):
         return cls.account_list
