@@ -34,5 +34,3 @@ Terminal
 
 # COPYRIGHT (c) 2020 
 
-UMUTONIWASE Edith :@gmail.com
-Twitter:@umutonivivine
