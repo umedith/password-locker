@@ -29,6 +29,7 @@ Terminal
 
 . email: umedith03@gmail.com
 . twitte: edith.tiwtter.com
+. contact: +250 788 343 904
 
 
 # COPYRIGHT (c) 2020 
