@@ -1,6 +1,6 @@
 # password-locker
 
-# By Edith Umutoniwase
+## By Edith Umutoniwase
 
 # Description
 This is a Password Locker application that will help a user to manage their passwords and even generate new passwords for their different accounts.
@@ -28,7 +28,7 @@ Terminal
 ## Contact
 
 . email: umedith03@gmail.com
-. twitte: edith.tiwtter.com
+. twitter: edith.tiwtter.com
 . contact: +250 788 343 904
 
 
