@@ -25,6 +25,12 @@ Terminal
 6. Run the command (python3.6 run.py)
 7. and follow instructions.
 
+## Contact
+
+. email: umedith03@gmail.com
+
+
 # COPYRIGHT (c) 2020 
-UMUTONIWASE Edith :mutoniv5@gmail.com
+
+UMUTONIWASE Edith :@gmail.com
 Twitter:@umutonivivine
