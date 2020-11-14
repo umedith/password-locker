@@ -18,6 +18,7 @@ class Account:
     def display_accounts(cls):
         return cls.account_list
 
+
     def delete_account(self):
         Account.account_list.remove(self)
 
