@@ -3,7 +3,6 @@ class Account:
 
     account_list = []
     
-
     def __init__(self, account_name, account_userName, account_password):
 
         self.account_name = account_name
