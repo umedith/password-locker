@@ -28,6 +28,7 @@ Terminal
 ## Contact
 
 . email: umedith03@gmail.com
+. twitte: edith.tiwtter.com
 
 
 # COPYRIGHT (c) 2020 
