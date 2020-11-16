@@ -5,11 +5,11 @@ from credentials import Account
 class TestAccount(unittest.TestCase):
     def setUp(self):
 
-        self.new_account = Account("Instagram", "Jack_Sparrow", "apirateslife")
+        self.new_account = Account("Instagram", "Edithreine", "apirateslife")
 
     def test_init(self):
         self.assertEqual(self.new_account.account_name,"Instagram")
-        self.assertEqual(self.new_account.account_userName,"Jack_Sparrow")
+        self.assertEqual(self.new_account.account_userName,"Edithreine")
         self.assertEqual(self.new_account.account_password,"apirateslife")
 
     def test_save_account(self):
